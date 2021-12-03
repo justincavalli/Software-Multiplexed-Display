@@ -8,7 +8,7 @@
 //  on the breadboard using this C program on a 
 //  PICOSOC RISC-V processor instantiated on the FPGA.
 //
-//	Chuck Pateros
+//	Team FLAC
 //	University of San Diego
 //	24-Oct-2021
 //
